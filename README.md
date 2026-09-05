@@ -11,5 +11,5 @@ Showing of received merits from users on a thread/reply is to be limited by thre
 ## How to install
 - Install Tampermonkey either for desktop (most browsers) and mobile (Edge or any browsers supporting extensions).
 - Go Tampermonkey and Create new script..
-- Copy and paste the [userscript](https://raw.githubusercontent.com/pxzone/bitcointalk_collapsible_merits/refs/heads/main/collapse.js)
+- Copy and paste the [userscript](https://raw.githubusercontent.com/pxzone/bitcointalk_collapsible_merits/refs/heads/main/collapse.user.js)
 - Then save
